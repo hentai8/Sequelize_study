@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="521d7916-9f3a-40e8-a5a6-4f3b2619b5bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Sequelize_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/20210422075005-create-article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seeders/20210422075421-article.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rVuq6eLPXhFboNgpwQCQzqHWHG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
+    <property name="ts.external.directory.path" value="C:\software\Idea\Idea\IntelliJ IDEA 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="521d7916-9f3a-40e8-a5a6-4f3b2619b5bb" name="Default Changelist" comment="" />
+      <created>1619073765129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619073765129</updated>
+      <workItem from="1619073766403" duration="8769000" />
+      <workItem from="1619086355910" duration="888000" />
+      <workItem from="1619089493813" duration="446000" />
+      <workItem from="1619089953298" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="965" y="395" key="#HTTP_Proxy" timestamp="1619089931540">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="965" y="395" key="#HTTP_Proxy/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089931540" />
+    <state x="377" y="27" key="#Project_Structure" timestamp="1619076982960">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="377" y="27" key="#Project_Structure/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619076982960" />
+    <state x="1039" y="306" key="FileChooserDialogImpl" timestamp="1619090056857">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1039" y="306" key="FileChooserDialogImpl/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619090056857" />
+    <state x="1340" y="433" key="Gitee.ShareDialog" timestamp="1619089998983">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1340" y="433" key="Gitee.ShareDialog/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089998983" />
+    <state x="1291" y="194" key="Gitee.UntrackedFilesDialog" timestamp="1619090006627">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1291" y="194" key="Gitee.UntrackedFilesDialog/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619090006627" />
+    <state x="683" y="430" width="509" height="251" key="Github.ShareDialog" timestamp="1619086448561">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="683" y="430" width="509" height="251" key="Github.ShareDialog/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619086448561" />
+    <state x="802" y="165" key="Github.UntrackedFilesDialog" timestamp="1619086493916">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="802" y="165" key="Github.UntrackedFilesDialog/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619086493916" />
+    <state width="1993" height="291" key="GridCell.Tab.0.bottom" timestamp="1619089478367">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1993" height="291" key="GridCell.Tab.0.bottom/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089478367" />
+    <state width="1993" height="291" key="GridCell.Tab.0.center" timestamp="1619089478367">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1993" height="291" key="GridCell.Tab.0.center/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089478367" />
+    <state width="1993" height="291" key="GridCell.Tab.0.left" timestamp="1619089478367">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1993" height="291" key="GridCell.Tab.0.left/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089478367" />
+    <state width="1993" height="291" key="GridCell.Tab.0.right" timestamp="1619089478367">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1993" height="291" key="GridCell.Tab.0.right/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619089478367" />
+    <state x="567" y="218" key="SettingsEditor" timestamp="1619090130907">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="567" y="218" key="SettingsEditor/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619090130907" />
+    <state x="790" y="227" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1619086571663">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="790" y="227" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619086571663" />
+    <state x="499" y="91" key="new project wizard" timestamp="1619074421981">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="499" y="91" key="new project wizard/-1920.858.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1619074421981" />
+  </component>
+</project>
